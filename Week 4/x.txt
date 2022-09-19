@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main()
 {
- int a,b=615,c=1000;
-printf("My name is GVS.Sridhar");
+ int a,b=580,c=1000;
+printf("My name is J.Pavan Sai");
 if((a+b)>c)
  printf("sum is greater than c");
 else
